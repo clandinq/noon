@@ -5,11 +5,11 @@
   </picture>
 </p>
 
-<p align="center">Moom-style window halves for macOS, in one Hammerspoon Spoon.</p>
+<p align="center">A minimal window management app for macOS.</p>
 
 ## What it is
 
-noon gives you three window shortcuts, modeled on [Moom](https://manytricks.com/moom/).
+noon is a window management app that gives you three window shortcuts, modeled on [Moom](https://manytricks.com/moom/).
 It is free, tiny, and needs nothing beyond [Hammerspoon](https://www.hammerspoon.org/).
 
 | Shortcut | Action                          |
